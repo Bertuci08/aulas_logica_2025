@@ -6,3 +6,6 @@
 
 # Diretorio de dependencias
 node_modules/
+
+# Arquivo especifico com dados e senhas
+conexao.py 

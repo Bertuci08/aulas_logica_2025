@@ -53,4 +53,5 @@ console.log(frutas.slice(-1)); // mostra os itens do fim para o inicio
 console.log(frutas);
 frutas.sort()// ordenar a lista de forma crescente
 console.log(frutas);
-
+frutas.reverse()// ordenando de forma descrecente
+console.log(frutas);

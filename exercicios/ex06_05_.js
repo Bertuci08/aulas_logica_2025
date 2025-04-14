@@ -20,5 +20,3 @@ for(let i = 0; i <10; i++){
     
 } console.log(`A media da idade dos homens: ${mediaH/qtdH }`);
  console.log(`A media da idade das mulheres: ${mediaF/qtdF }`);
-
-

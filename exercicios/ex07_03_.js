@@ -21,4 +21,3 @@ console.log(comidas.slice(3,7));
 console.log(comidas.length);
 comidas.reverse()
 console.log(comidas);
-
