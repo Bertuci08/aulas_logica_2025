@@ -6,12 +6,15 @@ let reais = Number(prompt('Quantos reais voce tem: '))
 let valor_da_conversao = reais / Euro
 let valor_da_conversao1 = reais / Dolar
 
-function conversao(){
-    reais / Euro 
-    reais / Dolar
-    console.log(valor_da_conversao);
-    console.log(valor_da_conversao1);
+function conversao(valor){
+
+   // reais / Euro 
+  //  reais / Dolar
+
+    console.log(reais / valor);
+ //   console.log(valor_da_conversao1);
     
 }
 
-conversao()
+conversao(Euro)
+conversao(Dolar)
